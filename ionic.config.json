@@ -1,5 +1,5 @@
 {
-  "name": "cordova-plugin-faceplant-app",
+  "name": "cordova-plugin-device-rotation-app",
   "app_id": "",
   "type": "ionic-angular",
   "integrations": {
